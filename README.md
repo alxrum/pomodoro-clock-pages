@@ -6,7 +6,7 @@ Support pages for the Pomodoro Clock Chrome extension, published on GitHub Pages
 - Uninstall feedback: https://alxrum.github.io/pomodoro-clock-pages/uninstall/
 - Feedback: https://alxrum.github.io/pomodoro-clock-pages/feedback/
 
-Privacy policy: https://pinwisp.com/pomodoro-clock/privacy/
+Privacy policy: https://alxrum.github.io/pomodoro-clock-privacy/
 
 The pages are static HTML. Uninstall and feedback forms post to Google Forms
 (FORM_ID constants in each page). Deployed by pushing to `main`; `.nojekyll`
